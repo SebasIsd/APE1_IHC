@@ -16,15 +16,6 @@
 | **Conexión de red** | Wi-Fi institucional (50 Mbps) |
 | **Evaluadores** | Pillapa Tubon Wilson Joseph, Sarco Sailema Viviana Maribel, Guachi Aucapiña Alex Fabricio, Santana Duran Sebastián Israel |
 
-### 1.1 Roles del Equipo
-
-| **Rol** | **Integrante** | **Responsabilidad** |
-|---------|----------------|---------------------|
-| Coordinador | Pillapa Tubon Wilson Joseph | Organiza tareas, controla el alcance y verifica evidencias. |
-| Auditor de usabilidad | Sarco Sailema Viviana Maribel | Aplica las diez heurísticas de Nielsen y registra problemas de interacción. |
-| Auditor de accesibilidad | Guachi Aucapiña Alex Fabricio | Ejecuta pruebas con teclado, NVDA y herramientas automáticas. |
-| Relator | Santana Duran Sebastián Israel | Consolida mediciones, capturas, matriz y conclusiones. |
-
 ---
 
 ## 2. Perfil del Usuario Evaluado
@@ -51,7 +42,7 @@
 
 ## 4. Diagrama de Flujo de Descarga/Instalación
 
-### 4.1 Diagrama de Flujo (Formato Mermaid)
+### 4.1 Diagrama de Flujo
 
 ```mermaid
 flowchart TD
@@ -86,7 +77,7 @@ flowchart TD
     style P fill:#FF9800,stroke:#E65100,color:#fff
 ```
 
-### 4.2 Diagrama de Flujo (Formato ASCII)
+### 4.2 Diagrama de Flujo
 
 ```
                            ┌─────────────┐
